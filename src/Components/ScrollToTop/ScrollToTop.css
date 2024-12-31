@@ -1,0 +1,26 @@
+.scrollToTop {
+    display: none;
+    cursor: pointer;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    opacity: 0.7;
+    transition: opacity 0.4s ease-in-out 0s;
+}
+
+.scrollToTop img {
+    width: 50px;
+    background: var(--secondary-color);
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,0.08);
+    transition: all 0.3s;
+}
+
+.scrollToTop img:hover {
+    transform: scale(1.09);
+}
+
+.arrow-display {
+    display: block;
+}
