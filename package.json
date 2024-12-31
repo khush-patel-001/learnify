@@ -1,7 +1,7 @@
 {
   "name": "learnify",
   "homepage": "https://khush-patel-001.github.io/learnify",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
